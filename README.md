@@ -1,6 +1,6 @@
 **`简体中文`** | [English](README-en.md)
  
-[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/taichi91) 
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/taichi91)
 [![Coolapk](https://img.shields.io/badge/Follow-Coolapk-3DDC84?style=flat-square&logo=android&logoColor=white)](http://www.coolapk.com/u/28259173)
  
 # MFGA
@@ -34,10 +34,10 @@
 # 模块能实现的功能:
  
 ``play``商店的英文及数字全覆盖
-> play商店如果没有生效,请在管理器中点击执行(action.sh),等待文字跑完即可,如果部分gapp出现闪退请重启
+> ``play``商店如果没有生效,请在管理器中点击执行``(action.sh)``,等待文字跑完即可,如果部分``gapp``出现闪退请重启
  
 微信公众号文章及其内部全覆盖
-> KSU系管理器需关闭微信的“卸载模块”功能
+> ``KSU``系管理器需关闭微信的“卸载模块”功能
  
 ``MFGA`` ``15.5.1``版本起,``Unicode16``全覆盖;``15.8.2``版本起,``Unicode17``全覆盖.... 相当于只要是官方承认存在任何符号都有,当然也有一些系统官方在调用的私用区符号
  
@@ -155,7 +155,7 @@
  - 4.customize.sh:修复一个Android版本号获取问题
  - 5.action.sh:新增音量键选择
  <details>
- <summary><strong>点击查看更多更新日志</strong></summary>
+ <summary><strong>点击查看完整更新日志</strong></summary>
  
  15.7.7.03-16-beta5(1577031605)
  - 1.更新Roboto到beta36

@@ -34,10 +34,10 @@
 # Features the module can achieve:
  
 ``play`` store English letters and numbers fully covered
-> If the Play Store does not take effect, please click execute (action.sh) in the manager and wait until the text finishes scrolling. If some GApps crash, please reboot
+> If the ``Play Store`` does not take effect, please click execute ``(action.sh)`` in the manager and wait until the text finishes scrolling. If some ``GApps`` crash, please reboot
  
 WeChat Official Account articles and all content inside fully covered
-> For KSU-based managers, you need to disable WeChat’s “Uninstall Module” feature
+> For ``KSU-based`` managers, you need to disable WeChat’s “Uninstall Module” feature
  
 Starting from ``MFGA`` ``15.5.1``, ``Unicode16`` is fully covered; ``15.8.2`` starts full ``Unicode17`` coverage.... In other words, as long as any symbol is officially recognized, it is included. Of course, there are also some Private Use Area symbols called by the system
  
@@ -155,7 +155,7 @@ For example, the removed 無 --> ⺚
  - 4.customize.sh: Fixed an issue with retrieving the Android version number.
  - 5.action.sh: Added volume key selection functionality.
  <details>
- <summary><strong>Click to view more changelogs</strong></summary>
+ <summary><strong>Click to view all changelogs</strong></summary>
  
  15.7.7.03-16-beta5(1577031605)
  - 1.Updated Roboto to beta36
