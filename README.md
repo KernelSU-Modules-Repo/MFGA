@@ -43,6 +43,11 @@
  
 # 更新日志:
  
+ 16.0.5.10-23-beta5(1605102305)
+ - 1.修复Unknown-symbol-supplementRegular.ttf显示部分U+2600...U+27BF字符异常
+ - 2.将Unicode17-new.ttf部分非Unicode17.0正式版公布字符移动到Unicode18-new.ttf
+ 
+ 
  16.0.3.09-27-beta3(1603092703)
  - 1.修复鸿蒙5-私用区拓展A缺失的两个符号
 ```

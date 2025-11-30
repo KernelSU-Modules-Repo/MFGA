@@ -43,7 +43,11 @@
  
 #  Update log:
  
- 16.0.3.09-27-beta3 (1603092703)
+ 16.0.5.10-23-beta5(1605102305)
+ - 1.Fixed an issue where some characters in the range U+2600…U+27BF were displayed incorrectly in Unknown-symbol-supplementRegular.ttf
+ - 2.Moved certain characters that are not part of the official Unicode 17.0 release from Unicode17-new.ttf to Unicode18-new.ttf
+ 
+ 16.0.3.09-27-beta3(1603092703)
  - 1.Fixed the two missing symbols in HarmonyOS 5 private area extension A
 ```
 U+F0AFE(󰫾), U+F0ADD(󰫝)
