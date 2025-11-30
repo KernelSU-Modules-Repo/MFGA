@@ -1,4 +1,4 @@
-**`Enlish`** | [简体中文](README.md)
+**`Enlish`** | [简体中文](https://github.com/KernelSU-Modules-Repo/MFGA/blob/main/README.md)
  
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/taichi91)
 [![Coolapk](https://img.shields.io/badge/Follow-Coolapk-3DDC84?style=flat-square&logo=android&logoColor=white)](http://www.coolapk.com/u/28259173)
@@ -42,7 +42,7 @@ WeChat Official Account articles and all content inside fully covered
 Starting from ``MFGA`` ``15.5.1``, ``Unicode16`` is fully covered; ``15.8.2`` starts full ``Unicode17`` coverage.... In other words, as long as any symbol is officially recognized, it is included. Of course, there are also some Private Use Area symbols called by the system
  
 Custom content is more visualized
-> ``15.9.0`` and later, you can replace fonts directly by modifying the numeric ttf
+> ``15.9.0`` and later, you can replace fonts directly by modifying the numeric ``ttf``
  
 Ability to block auxiliary fonts provided by the module
 > ``16.0.1`` and later, you can enter ``ttf/otf`` existing in the module in ``webui`` to block them

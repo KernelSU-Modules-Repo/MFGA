@@ -1,4 +1,4 @@
-**`简体中文`** | [English](README-en.md)
+**`简体中文`** | [English](https://github.com/KernelSU-Modules-Repo/MFGA/blob/main/README-en.md)
  
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/taichi91)
 [![Coolapk](https://img.shields.io/badge/Follow-Coolapk-3DDC84?style=flat-square&logo=android&logoColor=white)](http://www.coolapk.com/u/28259173)
@@ -6,7 +6,7 @@
 # MFGA
 > [!CAUTION]
 > 
-> 本模块使用了action.sh,所以需要magisk28.0+,alpha28001+,kernelSU 11986/1.0.2+,(M/R)KernelSU(NEXT)12300+刷入！！！
+> 本模块使用了 action.sh,所以需要magisk28.0+,alpha28001+,kernelSU 11986/1.0.2+,(M/R)KernelSU(NEXT)12300+刷入！！！
  
 > [!IMPORTANT]
 >
@@ -42,7 +42,7 @@
 ``MFGA`` ``15.5.1``版本起,``Unicode16``全覆盖;``15.8.2``版本起,``Unicode17``全覆盖.... 相当于只要是官方承认存在任何符号都有,当然也有一些系统官方在调用的私用区符号
  
 自定义内容更加可视化
-> ``15.9.0``版本起,你可以通过修改数字ttf直接替换字体
+> ``15.9.0``版本起,你可以通过修改数字``ttf``直接替换字体
  
 可屏蔽模块提供的附属字体
 > ``16.0.1``版本起,你可以在``webui``中填写模块内存在的``ttf/otf``来进行屏蔽处理
