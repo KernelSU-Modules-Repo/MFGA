@@ -1,6 +1,6 @@
 {
     "metamodule": false,
-    "summary": "Revokes GMS's Font Provider to force GApps and other Apps to use system-custom fonts. Supports Android 9 ~ 16. Requires Magisk 28.0+ and KernelSU 11986+Disable “Umount Module by default”.",
+    "summary": "System-wide Font Overrider with Unique GMS Masking & Multi-Range Unicode Filter.Supports Android 9 ~ 17. Requires Magisk 28.0+ and KernelSU 11986+ Disable “Umount Module by default”.",
     "sourceUrl": "https://github.com/Numbersf/MakeFontsGreatAgain",
     "additionalAuthors": [
         {
