@@ -35,7 +35,7 @@
 - ``16.2.1`` Allows blocking font ranges while preserving other parts outside this range
  
 #  Update log
- 17.0.1.08-31-alpha2(1717180002)
+ 17.0.1.08-31-alpha2(1717180003)
  - 1.Added support for HyperOS 4
  - 2.Synced/Added some fonts and adjusted the colors of some Private Use Area symbols
  - 3*.Added an Xposed version of MFGA to override fonts in some apps with built-in fonts

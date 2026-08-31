@@ -1,6 +1,6 @@
 CN
  
-17.0.1.08-31-alpha2(1717180002)
+17.0.1.08-31-alpha2(1717180003)
  - 1.适配HyperOS4
  - 2.同步/新增部分字体，调整部分私用区符号颜色
  - 3*.新增Xposed版本MFGA覆盖一些内置了字体的应用
@@ -18,7 +18,7 @@ CN
 -------
 EN
  
-17.0.1.08-31-alpha2(1717180002)
+17.0.1.08-31-alpha2(1717180003)
  - 1.Added support for HyperOS 4
  - 2.Synced/Added some fonts and adjusted the colors of some Private Use Area symbols
  - 3*.Added an Xposed version of MFGA to override fonts in some apps with built-in fonts
