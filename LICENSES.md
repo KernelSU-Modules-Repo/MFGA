@@ -8,6 +8,7 @@
 - [NotoSansPro.otf](https://github.com/Numbersf/MakeFontsGreatAgain/blob/main/fonts%2FNotoSansPro.otf)：此字体是由多个 Noto 家族及其他 OFL-1.1 许可的字体合并
 - [Iosevka](https://github.com/be5invis/Iosevka)
 - [UFSTemp Alpha](https://github.com/Losketch/UnicodeFontSet-magisk-module/blob/main/font-source%2FUFSTempAlpha.fcp)
+- [TempSeal](https://github.com/Losketch/Fonts/tree/main/TempSeal)：Do What the Fuck You Want to Public License
 - [SatisarSharada](https://github.com/virtualvinodh/satisarsharada)
 - [Noto Emoji](https://github.com/googlefonts/noto-emoji)
 - [Noto Unicode](https://github.com/MY1L/Unicode/releases/tag/NotoUni7)
@@ -28,6 +29,7 @@ The fonts included in this module and their licenses are as follows:
 - [NotoSansPro.otf](https://github.com/Numbersf/MakeFontsGreatAgain/blob/main/fonts%2FNotoSansPro.otf): This font is a merged compilation of multiple Noto family fonts and other fonts licensed under OFL-1.1.
 - [Iosevka](https://github.com/be5invis/Iosevka)
 - [UFSTemp Alpha](https://github.com/Losketch/UnicodeFontSet-magisk-module/blob/main/font-source%2FUFSTempAlpha.fcp)
+- [TempSeal](https://github.com/Losketch/Fonts/tree/main/TempSeal)：Do What the Fuck You Want to Public License
 - [SatisarSharada](https://github.com/virtualvinodh/satisarsharada)
 - [Noto Emoji](https://github.com/googlefonts/noto-emoji)
 - [Noto Unicode](https://github.com/MY1L/Unicode/releases/tag/NotoUni7)

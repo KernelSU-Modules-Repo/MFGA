@@ -35,10 +35,19 @@
 - ``16.2.1`` Allows blocking font ranges while preserving other parts outside this range
  
 #  Update log
+ 17.0.1.08-31-alpha2(1717180002)
+ - 1.Added support for HyperOS 4
+ - 2.Synced/Added some fonts and adjusted the colors of some Private Use Area symbols
+ - 3*.Added an Xposed version of MFGA to override fonts in some apps with built-in fonts
+ - 4.Added preliminary support for some Unicode 18 colored emoji (early preview)
+```
+🛙🪋🪌🪍🫌🫝🫫🫹🫺
+```
+ 
  17.0.0.06-27-alpha(1717180001)
- - 1.Synchronized Roboto font to version 3.0.16(SU)
- - 2.Added main font colorization in WebUI; requires COLRv0 support, Android 10 and above
- - 3.Adjusted some composite symbols in the main font, fixing missing glyphs and display issues on higher Android versions
+ - 1.Synchronized Roboto font to version 3.0.16(SU).
+ - 2.Added main font colorization in WebUI; requires COLRv0 support, Android 10 and above.
+ - 3.Adjusted some composite symbols in the main font, fixing missing glyphs and display issues on higher Android versions.
  
  16.3.5.04-15-beta2(1635041502)
  - 1.action.sh:Fixed the issue where GMS blocking skipped the pause application in WebUI mode.
